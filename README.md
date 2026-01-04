@@ -2,7 +2,7 @@
 
 Lightweight shell utilities to remove System V IPC resources owned by the current user. Useful for debugging and development when cleaning up leftover semaphores, message queues, or shared memory segments.
 
-## ✨ Included Scripts
+## 📁 Included Scripts
 ```bash
 .
 ├── clean.bash            # Bash: remove queues/semaphores/shm (supports flags)
